@@ -7,6 +7,6 @@ function validateLogin() {
         alert('Login berhasil');
         window.location.href = 'admin.php'; 
     } else {
-        alert('Login Gagal. (Username = adminpuskesmas | Password = admin2024).');
+        alert('Login Gagal');
     }
 }
